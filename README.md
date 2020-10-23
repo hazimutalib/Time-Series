@@ -1,3 +1,3 @@
 # Time-Series
 
-Type of Tiem Series Analysis
+Type of Time Series Analysis
